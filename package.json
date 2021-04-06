@@ -1,5 +1,5 @@
 {
-  "name": "mochat-doc",
+  "name": "mochat-database-doc",
   "version": "0.1.0",
   "description": "wework app of hyperf",
   "main": "index.js",
